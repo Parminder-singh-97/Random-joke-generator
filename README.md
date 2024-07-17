@@ -24,6 +24,8 @@ Welcome to the Random Joke Generator! This application brings a smile to your fa
 
 ## 📸 Screenshots
 
+![project7](https://github.com/user-attachments/assets/56f9adbe-2df7-4a55-bb90-78b632a35901)
+
 
 
 
